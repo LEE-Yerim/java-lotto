@@ -1,6 +1,6 @@
 ### [NEXTSTEP] FINPC 2021년 U-Space 고급 프로그래밍
 
- Week 2. 로또 - TDD
+ Week 3. 로또 - TDD
 
  - 실습 1) [문자열 덧셈 계산기](https://github.com/LEE-Yerim/java-lotto/blob/step2/src/StringAdditionCalculator.md)
 
